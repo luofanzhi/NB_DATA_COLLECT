@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BEEP Pin=U4-39
+Added Member To Class: ClassName=NB-Blue Member=Component D9 1N4148
+Added Member To Class: ClassName=NB-Blue Member=Component R32 1K
+Added Member To Class: ClassName=NB-Blue Member=Component R33 10K

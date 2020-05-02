@@ -1,0 +1,11 @@
+Added Component: Designator=C11(0603CC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R32(0603RR)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=MCU_3.3V Pin=R32-2
+Added Pin To Net: NetName=RESET Pin=C11-2
+Added Pin To Net: NetName=RESET Pin=R32-1
+Added Net: Name=RESET
+Added Member To Class: ClassName=NB-Blue Member=Component C11 100nF
+Added Member To Class: ClassName=NB-Blue Member=Component R32 10K

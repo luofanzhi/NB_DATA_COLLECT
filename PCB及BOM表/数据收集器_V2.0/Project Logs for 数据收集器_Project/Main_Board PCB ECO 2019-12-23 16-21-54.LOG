@@ -1,0 +1,5 @@
+Added Component: Designator=C24(0603CC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=JP3-4
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Member To Class: ClassName=NB-Blue Member=Component C24 10uF

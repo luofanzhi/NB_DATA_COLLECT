@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Blue_TXD_PA3 Pin=JP1-1
+Removed Pin From Net: NetName=Blue_RXD_PA2 Pin=JP1-3
+Removed Pin From Net: NetName=NB_TXD_PA10 Pin=JP3-2
+Removed Pin From Net: NetName=NB_RXD_PA9 Pin=JP3-4
+Removed Member From Class: ClassName=Data_Blue Member=JP1
+Removed Member From Class: ClassName=Data_Blue Member=JP3
+Added Pin To Net: NetName=Blue_TXD_PA3 Pin=U1-1
+Added Pin To Net: NetName=Blue_RXD_PA2 Pin=U1-2
+Added Pin To Net: NetName=NB_RXD_PA9 Pin=U2-29
+Added Pin To Net: NetName=NB_TXD_PA10 Pin=U2-30

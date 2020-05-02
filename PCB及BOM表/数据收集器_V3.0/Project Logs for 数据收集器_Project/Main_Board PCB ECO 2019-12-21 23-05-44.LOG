@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=S2 Old Footprint=TSW SMD-4*4*1.5 New Footprint=SPST-2
+Added Member To Class: ClassName=NB-Blue Member=Component C11 100nF
+Added Member To Class: ClassName=NB-Blue Member=Component R32 10K

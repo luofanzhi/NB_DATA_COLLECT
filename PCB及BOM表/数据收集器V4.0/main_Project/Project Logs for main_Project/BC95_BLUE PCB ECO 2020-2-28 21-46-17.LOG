@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Blue_Power_Control Pin=U4-11
+Removed Pin From Net: NetName=Blue_RXD_PA2 Pin=U4-12
+Removed Pin From Net: NetName=Blue_TXD_PA3 Pin=U4-13
+Removed Pin From Net: NetName=Blue_RST Pin=U4-17
+Removed Pin From Net: NetName=NB_RESET_Control Pin=U4-29
+Added Pin To Net: NetName=POWER_ADC Pin=U4-11
+Added Pin To Net: NetName=Blue_Power_Control Pin=U4-12
+Added Pin To Net: NetName=Blue_RXD_PA2 Pin=U4-13
+Added Pin To Net: NetName=Blue_TXD_PA3 Pin=U4-14
+Added Pin To Net: NetName=Blue_RST Pin=U4-29
+Added Pin To Net: NetName=NB_RESET_Control Pin=U4-32
+Change Net Name : Old Net Name=Blue_EN New Net Name=Blue_STATE
+Change Net Name : Old Net Name=Blue_IN New Net Name=Blue_EN
+Added Pin To Net: NetName=Blue_IN Pin=U4-17
+Added Net: Name=Blue_IN

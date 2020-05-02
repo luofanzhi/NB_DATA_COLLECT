@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Blue_Power_Control Pin=U4-76
+Removed Pin From Net: NetName=NB_Power_Control Pin=U4-104
+Added Pin To Net: NetName=NB_Power_Control Pin=U4-76
+Added Pin To Net: NetName=Blue_Power_Control Pin=U4-103

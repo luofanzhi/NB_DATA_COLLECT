@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Blue_RST Pin=U4-14
+Removed Pin From Net: NetName=Blue_IN Pin=U4-15
+Removed Pin From Net: NetName=Blue_EN Pin=U4-16
+Removed Pin From Net: NetName=Blue_STATE Pin=U4-17
+Added Pin To Net: NetName=Blue_STATE Pin=U4-14
+Added Pin To Net: NetName=Blue_EN Pin=U4-15
+Added Pin To Net: NetName=Blue_IN Pin=U4-16
+Added Pin To Net: NetName=Blue_RST Pin=U4-17

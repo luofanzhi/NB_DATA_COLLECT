@@ -1,0 +1,8 @@
+Added Component: Designator=C37(CD A(3216))
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=D11-1
+Added Pin To Net: NetName=NetC37_1 Pin=JP14-2
+Added Net: Name=NetC37_1
+Added Member To Class: ClassName=MCU Member=Component C37 470uF/35V

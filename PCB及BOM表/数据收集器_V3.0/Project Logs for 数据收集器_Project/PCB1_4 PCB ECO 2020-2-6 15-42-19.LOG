@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=MCU_3.3V Pin=R53-1
+Added Pin To Net: NetName=POWER_+ Pin=R53-1

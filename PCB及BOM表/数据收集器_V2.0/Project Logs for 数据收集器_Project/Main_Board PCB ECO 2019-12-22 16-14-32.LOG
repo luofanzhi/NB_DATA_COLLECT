@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=POWER_+ Pin=JP3-1
+Change Component Footprint: Designator=U6 Old Footprint=AMS1117 New Footprint=SOT223_N
+Change Component Footprint: Designator=U7 Old Footprint=AMS1117 New Footprint=SOT223_N
+Added Pin To Net: NetName=POWER_+ Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=JP3-1
+Added Net: Name=NetD10_2

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC_5V Pin=D10-2
+Removed Pin From Net: NetName=GND Pin=JP3-4
+Change Component Designator: OldDesignator=C21 NewDesignator=C23
+Change Component Designator: OldDesignator=C22 NewDesignator=C21
+Change Component Designator: OldDesignator=C23 NewDesignator=C22
+Added Component: Designator=U7(AMS1117)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC_5V Pin=U7-2
+Added Pin To Net: NetName=VCC_5V Pin=U7-4
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC23_1
+Added Pin To Net: NetName=NetJP3_2 Pin=JP3-2
+Added Pin To Net: NetName=NetJP3_2 Pin=U7-3
+Added Net: Name=NetJP3_2
+Added Pin To Net: NetName=NetJP3_4 Pin=JP3-4
+Added Pin To Net: NetName=NetJP3_4 Pin=U7-1
+Added Net: Name=NetJP3_4
+Added Member To Class: ClassName=NB-Blue Member=Component U7 AMS1117-5.0V

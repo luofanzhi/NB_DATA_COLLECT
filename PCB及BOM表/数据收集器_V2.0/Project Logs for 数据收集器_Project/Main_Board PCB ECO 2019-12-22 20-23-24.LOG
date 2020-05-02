@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VCC_5V Pin=U7-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)

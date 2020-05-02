@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=BLE_CLEAR Pin=U4-15
+Added Pin To Net: NetName=BLE_CON_LED Pin=U4-16
+Added Pin To Net: NetName=BLE_Pilot_LED Pin=U4-17

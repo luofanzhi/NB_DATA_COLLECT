@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=MCU_3.3V Pin=1-7
+Removed Pin From Net: NetName=GND Pin=1-8
+Removed Member From Class: ClassName=NB-Blue Member=1
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP3
+Added Component: Designator=JP1(HDR2.54-M-LI-8P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "8P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=MCU_3.3V Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_3 Pin=JP1-3
+Added Pin To Net: NetName=NetJP1_3 Pin=R25-2
+Added Net: Name=NetJP1_3
+Added Pin To Net: NetName=NetJP1_4 Pin=JP1-4
+Added Pin To Net: NetName=NetJP1_4 Pin=R26-2
+Added Net: Name=NetJP1_4
+Added Pin To Net: NetName=NetJP1_5 Pin=JP1-5
+Added Pin To Net: NetName=NetJP1_5 Pin=R27-2
+Added Net: Name=NetJP1_5
+Added Pin To Net: NetName=NetJP1_6 Pin=JP1-6
+Added Pin To Net: NetName=NetJP1_6 Pin=R28-2
+Added Net: Name=NetJP1_6
+Added Pin To Net: NetName=NetJP1_7 Pin=JP1-7
+Added Pin To Net: NetName=NetJP1_7 Pin=R30-2
+Added Net: Name=NetJP1_7
+Added Pin To Net: NetName=NetJP1_8 Pin=JP1-8
+Added Pin To Net: NetName=NetJP1_8 Pin=R31-2
+Added Net: Name=NetJP1_8
+Added Member To Class: ClassName=NB-Blue Member=Component JP3 Header2X2

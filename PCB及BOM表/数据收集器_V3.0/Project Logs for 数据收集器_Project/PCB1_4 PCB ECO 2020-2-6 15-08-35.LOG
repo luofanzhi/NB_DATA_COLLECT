@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC_5V Pin=JP11-1
+Removed Pin From Net: NetName=VCC_5V Pin=JP11-3
+Removed Pin From Net: NetName=MCU_3.3V Pin=JP11-5
+Removed Pin From Net: NetName=MCU_3.3V Pin=JP11-7
+Added Pin To Net: NetName=MCU_3.3V Pin=JP11-1
+Added Pin To Net: NetName=MCU_3.3V Pin=JP11-3
+Added Pin To Net: NetName=VCC_5V Pin=JP11-5
+Added Pin To Net: NetName=VCC_5V Pin=JP11-7
