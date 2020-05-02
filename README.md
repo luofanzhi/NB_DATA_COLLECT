@@ -1,0 +1,2 @@
+# NB_DATA_COLLECT
+NB-IOT水表收集器
