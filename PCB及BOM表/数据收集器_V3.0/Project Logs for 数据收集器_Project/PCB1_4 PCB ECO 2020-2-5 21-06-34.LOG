@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=D8 Old Footprint=DIODE_SOP New Footprint=SOD-323
-Change Component Footprint: Designator=D9 Old Footprint=DIODE_SOP New Footprint=SOD-323
-Change Component Designator: OldDesignator=BAT? NewDesignator=BAT1
-Change Net Name : Old Net Name=NetBAT?_1 New Net Name=NetBAT1_1

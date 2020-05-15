@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NetV1_1 Pin=V1-2
-Removed Pin From Net: NetName=POWER_- Pin=V1-4
-Added Pin To Net: NetName=POWER_- Pin=V1-2
-Added Pin To Net: NetName=NetV1_1 Pin=V1-4

@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C24-1
-Removed Pin From Net: NetName=MCU_3.3V Pin=C24-2
-Removed Pin From Net: NetName=VCC_5V Pin=U7-2
-Removed Member From Class: ClassName=NB-Blue Member=C24
-Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)

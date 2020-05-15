@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=VCC_5V Pin=C11-1
-Removed Pin From Net: NetName=GND Pin=C11-2
-Removed Member From Class: ClassName=MCU Member=C11
-Added Pin To Net: NetName=Blue_Power_Control Pin=U4-103

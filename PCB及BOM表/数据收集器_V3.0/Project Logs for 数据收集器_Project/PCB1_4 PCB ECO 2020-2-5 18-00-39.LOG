@@ -1,8 +1,0 @@
-Added Component: Designator=RF1(SMA_FR)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=NetC1_1 Pin=RF1-1
-Added Pin To Net: NetName=GND Pin=RF1-2
-Added Pin To Net: NetName=GND Pin=RF1-2
-Added Pin To Net: NetName=GND Pin=RF1-3
-Added Pin To Net: NetName=GND Pin=RF1-3
-Added Member To Class: ClassName=MCU Member=Component RF1 SMAÌìÏß
